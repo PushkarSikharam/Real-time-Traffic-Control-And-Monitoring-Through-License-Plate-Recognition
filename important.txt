@@ -1,6 +1,10 @@
-
- /usr/bin/python3 "/home/sunil/Desktop/Final year project (sunil,Bhanu,Badal,Aman))/vehicle_number_by_its_plate/image_example.py"
-
-
- ./ngrok http 3000 -host-header="localhost:3000"
-
+first open the john v3 folder in vs code
+then in terminal run these command
+cd Intel + tab
+cd veh + tab
+python lic +tab
+cd ..
+cd traf +tab
+python ml+tab
+cd..
+yarn start (if not working then write cmd and press enter and then run the command)
